@@ -1,4 +1,6 @@
 Greenwich
 =========
 
-Landing Page 
+Landing Page data, media and content.
+
+MIT License.
