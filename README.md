@@ -1,6 +1,6 @@
 Greenwich
 =========
 
-Landing Page data, media and content for open science, design, engineering and collaboration.
+Landing Page data, media and content for cocreation in open science, design, engineering and collaborative works.
 
 MIT License.
